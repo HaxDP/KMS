@@ -2,7 +2,7 @@
 
 ##1
 
-![photo](Screenshot2026-10-12215635.png)
+![photo](photos\lecture10\lecture10.png)
 
 вона точно точно була не підглянута в лекції, чесно чесно)
 
