@@ -35,7 +35,7 @@ IP-адреси з мережі 192.168.1.0/24
 
 ping між усіма вузлами проходить, бо всі порти комутатора за замовчуванням в одній VLAN 1
 
-![1task](..\Photos\PR7\pr7_1.png)
+![1task](https://github.com/HaxDP/KMS/blob/master/Photos/PR7/pr7_1.png)
 
 ## 2
 
@@ -66,7 +66,7 @@ end
 write memory
 ```
 
-![21task](..\Photos\PR7\pr7_21.png)
+![21task](https://github.com/HaxDP/KMS/blob/master/Photos/PR7/pr7_21.png)
 
 перевірка
 
@@ -78,7 +78,7 @@ show vlan brief
 15   FIN        active    Fa0/1, Fa0/3
 25   QA         active    Fa0/2, Fa0/4
 ```
-![22task](..\Photos\PR7\pr7_22.png)
+![22task](https://github.com/HaxDP/KMS/blob/master/Photos/PR7/pr7_22.png)
 
 IP-адреси на ПК лишаються з 192.168.1.0/24
 
@@ -120,7 +120,7 @@ end
 write memory
 ```
 
-![3task](..\Photos\PR7\pr7_31.png)
+![3task](https://github.com/HaxDP/KMS/blob/master/Photos/PR7/pr7_31.png)
 
 перевірка
 
@@ -128,7 +128,7 @@ write memory
 show ip interface brief
 ```
 
-![32task](..\Photos\PR7\pr7_32.png)
+![32task](https://github.com/HaxDP/KMS/blob/master/Photos/PR7/pr7_32.png)
 
 мають бути інтерфейси g0/0.15 з адресою 192.168.15.1 і g0/0.25 з адресою 192.168.25.1 у стані up
 
