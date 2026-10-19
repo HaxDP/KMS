@@ -2,7 +2,7 @@
 
 ## 1
 
-![photo](Photos\lecture10\lecture10.png)
+![photo](https://github.com/HaxDP/KMS/blob/master/Photos/lecture10/lecture10.png)
 
 вона точно точно була не підглянута в лекції, чесно чесно)
 
